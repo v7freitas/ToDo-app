@@ -1,0 +1,56 @@
+{
+  "tasks": [
+    {
+      "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+      "title": "Study Lesson",
+      "category": "task",
+      "date": "22/05/2024",
+      "time": "15pm",
+      "notes": "blablabla",
+      "completed": true
+    },
+    {
+      "id": "3ac68afc-c605-48d3-a4f8-fbd91aa97f63",
+      "completed": false,
+      "title": "Run 5k",
+      "category": "sport",
+      "time": "15pm"
+    },
+    {
+      "id": "58694a0f-3da1-471f-bd96-145571e29d72",
+      "title": "Go to party",
+      "category": "freetime",
+      "date": "22/05/2024",
+      "time": "15pm",
+      "notes": "blablabla",
+      "completed": false
+    },
+    {
+      "id": "5869440f-3da1-471f-bd96-145571e29d72",
+      "title": "Game meet up",
+      "category": "freetime",
+      "date": "22/05/2024",
+      "time": "15pm",
+      "notes": "blablabla",
+      "completed": false
+    },
+    {
+      "id": "5869440f-3da1-471f-bd46-145571e29d72",
+      "title": "Take out trash",
+      "category": "task",
+      "date": "22/05/2024",
+      "time": "15pm",
+      "notes": "blablabla",
+      "completed": false
+    },
+    {
+      "id": "1717681073044",
+      "title": "Terminar curso",
+      "date": "06/06/2024",
+      "time": "12:00",
+      "notes": "Curso",
+      "category": "freetime",
+      "completed": false
+    }
+  ]
+}
